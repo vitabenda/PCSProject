@@ -15,7 +15,7 @@
             <input id="password" type="text" name="password" placeholder="Heslo">
             <small class="form__error-message">Zadejte heslo delší než 5 znaků.</small>
             <input id="password" type="text" name="password" placeholder="Potvrdit heslo">
-            <button class="button--primary" type="submit">Registrovat</button>
+            <button class="button--primary" type="submit">Zaregistrovat se</button>
             <div class="form__footer">
                 <p>Již máte účet? <a href="/PCSProject/views/login.html">Přihlaste se</a></p>
             </div>
